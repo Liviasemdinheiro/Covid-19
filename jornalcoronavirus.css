@@ -1,0 +1,139 @@
+header {
+    background: #6fbbd3;
+    padding: 30px 0;
+    font-size: 30px;
+ }
+
+ body{
+  background: linear-gradient(white,lightblue,blue);
+}
+ 
+ .casos{
+ 	width: 50%;
+    border-radius: 20px;
+    border: 6px solid black;
+ }
+
+ .letra{
+ 	font-size: 15px;
+ 	font-style: italic;
+ }
+
+ .caixa{
+	position: relative;
+	width:950px;
+	margin: 3em auto;
+	text-align: center;
+ }
+
+ .y{
+ 	font-size: 15px;
+ 	font-style: italic;
+    position: absolute;
+ }
+
+ .paodemilho{
+ 	font-size: 20px;
+ }
+
+ h2{
+    font-size: 30px;
+    text-align: center;
+ }
+
+.vacina{
+    text-align: center;
+    width: 50%;
+    border-radius: 20px;
+    border: 6px solid black;
+}
+
+ h3{
+    font-size: 30px;
+ }
+
+ footer {
+    background: #0000e0;
+    padding: 80px 0;
+    text-align: center;
+ }
+
+ .isolamento{
+    width: 50%;
+    border-radius: 20px;
+    border: 6px solid black;
+    position: relative;
+ }
+
+.vaiii{
+    text-align: center;
+}  
+
+h4{
+    font-size: 30px;
+    text-align: center;
+}
+
+.aulas{
+    border-radius: 20px;
+    border: 6px solid black;
+    position: relative;
+}
+
+.aulas{
+    width: 600px;
+    height: 400px;
+}
+
+.aulas{
+    width: 35%;
+    height: 35%;
+}
+
+.paodemilho{
+    text-align: center;
+}
+
+.letra2{
+    font-size: 15px;
+    font-style: italic;
+    display: inline-block;
+    margin-left: 23%;
+}
+
+.letra3{
+    font-size: 15px;
+    display: inline-block;
+    font-style: italic;
+    margin-left: 13%;
+    vertical-align: top;
+}
+
+h5{
+    font-size: 30px;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 20px;
+    margin: 20px 0 0;
+}
+
+.email {
+    font-size: 20px;
+    margin: 20px 0 0;
+}
+
+nav a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.link-instagram {
+    color: black;
+}
